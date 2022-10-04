@@ -8,4 +8,4 @@
 - ~~Crossed~~
 - **BOLD**
 
-[Stuff](httpa://SamBeckett0.github.io/Stuff.html)
+[Stuff](https://SamBeckett0.github.io/Stuff.html)
