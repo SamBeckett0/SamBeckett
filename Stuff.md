@@ -2,4 +2,4 @@
 ## Thats it
 ### Thats all there is
 
-[Video](https://SamBeckett0.github.io/Video.md.html)
+[Video](https://SamBeckett0.github.io/Video.html)
